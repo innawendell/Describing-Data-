@@ -1,2 +1,1 @@
-# Describing-Data-
-Central Tendency and Variance Estimation
+#This is a folder with Thinkful Projects
